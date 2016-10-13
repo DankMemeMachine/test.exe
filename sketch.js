@@ -5,5 +5,5 @@ function setup()
 
 function draw()
 {
-  ellipse(600,600,110,110);
+  ellipse(600,500,200,200);
 }

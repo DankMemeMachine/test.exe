@@ -11,5 +11,5 @@ function draw()
   
   elispe(mouseX,mouseY,25,25);
   fill(244, 66, 66);
-  stroke(244, 66, 66)'
+  stroke(244, 66, 66);
 }

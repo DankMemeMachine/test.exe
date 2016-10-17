@@ -16,4 +16,8 @@ function draw()
   ellipse(mouseX,mouseY, 70, 70);
   ellipse(mouseX,mouseY, 60, 60);
   ellipse(mouseX,mouseY, 50, 50);
+  ellipse(mouseX,mouseY, 40, 40);
+  ellipse(mouseX,mouseY, 30, 30);
+  ellipse(mouseX,mouseY, 20, 20);
+  ellipse(mouseX,mouseY, 10, 10);
 }

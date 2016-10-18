@@ -13,6 +13,6 @@ function draw()
   rect(x,y,w,h);
   x=x+5;
   y=y-3;
-  h=h-1/20
-  w=w-1/20
+  h=h-1
+  w=w-1
 }

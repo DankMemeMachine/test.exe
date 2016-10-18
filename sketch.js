@@ -13,6 +13,6 @@ function draw()
   fill(227, 228, 229);
   rect(x,y,w,h);
   x=x-5;
-  y=y+3;
+  y=y-3;
 
 }

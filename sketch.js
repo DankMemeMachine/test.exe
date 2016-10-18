@@ -6,7 +6,7 @@ var x=20
 var y=550
 function draw()
 {
-  background(255,255,255);
+  background(28, 44, 68);
   fill(255, 255, 255);
  ellipse(x,y, 150, 150);
   fill(255, 0, 0);

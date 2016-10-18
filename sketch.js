@@ -12,7 +12,7 @@ function draw()
   fill(227, 228, 229);
   rect(x,y,100,200);
   fill(163, 238, 255);
-  ellipse(x-5,y-10,50,50);
+  ellipse(x,y,50,50);
   x=x+2;
   y=y-7;
 }

@@ -7,7 +7,7 @@ var y=300
 
 function draw()
 {
-    rotate(45);
+    rotate(45)
   background(28, 44, 68);
   fill(227, 228, 229);
   rect(x,y,100,200);

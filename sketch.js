@@ -3,7 +3,7 @@ function setup()
   createCanvas(windowWidth,windowHeight);
 }
 var x=20
-var y=200
+var y=400
 function draw()
 {
   background(255,255,255);
@@ -38,5 +38,5 @@ function draw()
   fill(0, 0, 0);
   ellipse(x,y, 10, 10);
   x=x+5
-  y=y+3
+  y=y-3
 }

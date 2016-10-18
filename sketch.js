@@ -36,4 +36,5 @@ function draw()
   ellipse(x,200, 20, 20);
   fill(0, 0, 0);
   ellipse(x,200, 10, 10);
+  x=x+1
 }

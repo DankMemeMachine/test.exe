@@ -9,10 +9,10 @@ var h=200
 function draw()
 {
   background(28, 44, 68);
+  rotate(45);
   fill(227, 228, 229);
   rect(x,y,w,h);
   x=x+5;
   y=y-3;
-  w=w-1
-  h=h-1
+
 }

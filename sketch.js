@@ -3,7 +3,7 @@ function setup()
   createCanvas(windowWidth,windowHeight);
 }
 var x=20
-var y=400
+var y=550
 function draw()
 {
   background(255,255,255);

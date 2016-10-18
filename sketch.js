@@ -2,8 +2,8 @@ function setup()
 {
   createCanvas(windowWidth,windowHeight);
 }
-var x=1550
-var y=150
+var x=2000
+var y=200
 
 function draw()
 {

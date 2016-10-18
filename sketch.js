@@ -10,7 +10,7 @@ function draw()
 {
   background(28, 44, 68);
   fill(227, 228, 229);
-  rotate(angle)=45;
+  rotate(angle)=-45;
   rect(x,y,w,h);
   x=x+5;
   y=y-3;

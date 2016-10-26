@@ -6,9 +6,12 @@ function setup()
 function draw()
 {
   fill(122, 122, 122);
+  stroke(122,122,122);
 rect(1,600,windowWidth-1,100);
     fill(122, 122, 122);
+  stroke(122,122,122);
   triangle(1,600,100,500,100,600);
-    fill(122, 122, 122);
+  fill(122, 122, 122);
+  stroke(122,122,122);
   triangle(windowWidth-1,600,windowWidth-100,500,windowWidth-100,600);
 }

@@ -5,5 +5,5 @@ function setup()
 
 function draw()
 {
-rect(200,200,200,200);
+rect(1,1000,200,200);
 }

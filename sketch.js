@@ -9,4 +9,6 @@ function draw()
 rect(1,600,windowWidth,100);
     fill(122, 122, 122);
   triangle(1,600,100,500,100,600);
+    fill(122, 122, 122);
+  triangle(windowWidth-1,600,windowWidth-100,500,windowWidth-100,600);
 }

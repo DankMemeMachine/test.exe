@@ -16,5 +16,5 @@ rect(1,600,windowWidth-1,100);
   triangle(windowWidth-1,600,windowWidth-100,500,windowWidth-100,600);
     fill(122, 122, 122);
   stroke(122,122,122);
-  rect(100,500,windowWidth-100,100);
+  rect(100,500,windowWidth-200,100);
 }

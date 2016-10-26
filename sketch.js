@@ -6,5 +6,5 @@ function setup()
 function draw()
 {
   fill(122, 122, 122);
-rect(1,200,windowWidth,200);
+rect(1,600,windowWidth,100);
 }

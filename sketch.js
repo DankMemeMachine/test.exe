@@ -19,6 +19,6 @@ rect(1,600,windowWidth-1,100);
   rect(100,500,windowWidth-200,100);
     fill(122, 122, 122);
   stroke(122,122,122);
-  rotate(35);
+  
   rect(100,100,100,50_;
 }
